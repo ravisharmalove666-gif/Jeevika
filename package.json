@@ -1,0 +1,10 @@
+{
+  "name": "jeevika",
+  "version": "1.0.0",
+  "description": "Jeevika - AI-Powered Patient Intake & Priority Triage for Indian Hospital OPDs (with AYUSH)",
+  "scripts": {
+    "server": "cd server && node server.js",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  }
+}
